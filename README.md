@@ -1,6 +1,6 @@
 # Hi 👋 I'm Lakshaant Tyagi
 
-🎓 B.Tech Student | Embedded Systems & IIoT  
+🎓 B.Tech Student | CS IIOT 
 💻 Interested in Data, AI, and Forecasting Systems  
 🚀 Building practical projects using Python & AI  
 
@@ -33,5 +33,4 @@ A professional forecasting web app that combines:
 - Pandas, Matplotlib
 
 ## 📫 Contact Me
-- LinkedIn: (add later)
-- Email: (optional)
+- Email: tyagi.lakshaant@gmail.com
